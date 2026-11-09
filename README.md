@@ -9,3 +9,5 @@ Practice repository for the AI Engineering course.
 - **HTTP:** clients send requests, servers send responses. Methods (GET, POST, PUT, DELETE) and status codes (200, 404, 500).
 - **pip:** installs Python packages.
 - **Virtual environments:** keep each project's packages separate.
+
+Edited on GitHub to practice git pull.
