@@ -1,0 +1,5 @@
+.venv/
+__pycase__/
+.env
+.DS_Store
+.DS_Store
